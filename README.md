@@ -12,7 +12,7 @@
 
 **A pixel-perfect portfolio that turns heads and converts visitors into clients** ✨
 
-[Live Demo](#) • [Designer](https://www.behance.net/salmamostafamadany) • [Developer](https://github.com/mahmoudnazmy)
+[Live Demo](https://mahmoudnazmy.github.io/slama-mostafa/) • [Designer](https://www.behance.net/salmamostafamadany) • [Developer](https://github.com/mahmoudnazmy)
 
 </div>
 
@@ -142,34 +142,6 @@ The code wizard who brings designs to life. He writes code so clean, Marie Kondo
 
 ---
 
-## 🎯 What People Are Saying
-
-> "This is the most beautiful portfolio I've ever seen!"  
-> — Someone who definitely exists
-
-> "I hired them just because the website was so good."  
-> — Totally real client
-
-> "10/10 would recommend. Also, how do you make gradients this smooth?"  
-> — Fellow developer
-
-> "I came for the portfolio, stayed for the easter eggs."  
-> — Curious visitor
-
----
-
-## 🎁 Easter Eggs
-
-This portfolio is packed with hidden gems. Here are some hints:
-
-- 🔍 Click the "Developer Mode" button in the footer
-- 🎨 Try switching between light and dark mode rapidly
-- 🖱️ Hover over literally everything
-- 📱 Check it out on your phone (it's even better)
-- ⌨️ Developers: Open the console for a surprise
-
----
-
 ## 📜 License
 
 This project is open source and available under the **MIT License**.
@@ -208,6 +180,5 @@ Either way, thanks for stopping by!
 *P.S. - If you find a bug, no you didn't. 😉*
 
 [![GitHub](https://img.shields.io/badge/GitHub-mahmoudnazmy-181717?style=for-the-badge&logo=github)](https://github.com/mahmoudnazmy)
-[![Behance](https://img.shields.io/badge/Behance-salmamostafamadany-1769FF?style=for-the-badge&logo=behance)](https://www.behance.net/salmamostafamadany)
 
 </div>
